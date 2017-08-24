@@ -18,6 +18,7 @@ to replace mido.MidiFile
 Just see the __main__ block in the script
 You can just run the script to see how it works
 
+```
 if __name__ == "__main__":
     mid = MidiFile("test_file/1.mid")
 
@@ -29,3 +30,5 @@ if __name__ == "__main__":
 
     # draw piano roll by pyplot
     mid.draw_roll()
+
+```
