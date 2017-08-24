@@ -1,6 +1,8 @@
 # midi-visualization
 A python package for midi-visualization which works with numpy, matplotlib and mido
 
+![output image](https://github.com/exeex/midi-visualization/raw/master/test_file/visualiztion%20of%20midi.PNG "output image")
+
 You must install *numpy*, *matplotlib* and *mido* before you use it.
 
 If you have a script which parse midi files with mido.
